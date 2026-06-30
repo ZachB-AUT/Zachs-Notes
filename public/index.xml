@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Zachs Notes</title>
+      <link>https://notes.zachbarrett.me</link>
+      <description>Last 10 notes on Zachs Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://notes.zachbarrett.me/tags/</link>
+    <guid>https://notes.zachbarrett.me/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 30 Jun 2026 09:14:25 GMT</pubDate>
+  </item><item>
+    <title>Electronics Project</title>
+    <link>https://notes.zachbarrett.me/courses/electronics-project/</link>
+    <guid>https://notes.zachbarrett.me/courses/electronics-project/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 30 Jun 2026 09:08:03 GMT</pubDate>
+  </item><item>
+    <title>Electronics Project Assignments</title>
+    <link>https://notes.zachbarrett.me/courses/electronics-project/assignments</link>
+    <guid>https://notes.zachbarrett.me/courses/electronics-project/assignments</guid>
+    <description><![CDATA[ Project One - Robot Project One Design The first design project is a simple circuit design. ]]></description>
+    <pubDate>Tue, 30 Jun 2026 08:49:19 GMT</pubDate>
+  </item><item>
+    <title>Courses</title>
+    <link>https://notes.zachbarrett.me/courses/</link>
+    <guid>https://notes.zachbarrett.me/courses/</guid>
+    <description><![CDATA[ This is where I keep notes for specific courses at AUT. ]]></description>
+    <pubDate>Tue, 30 Jun 2026 08:32:15 GMT</pubDate>
+  </item><item>
+    <title>Introduction to Microcontrollers</title>
+    <link>https://notes.zachbarrett.me/courses/introduction-to-microcontrollers/</link>
+    <guid>https://notes.zachbarrett.me/courses/introduction-to-microcontrollers/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 30 Jun 2026 08:19:12 GMT</pubDate>
+  </item><item>
+    <title>Main Page</title>
+    <link>https://notes.zachbarrett.me/</link>
+    <guid>https://notes.zachbarrett.me/</guid>
+    <description><![CDATA[ Hello! This is where I (Zach Barrett) post my public notes. Currently this is hosted on notes.zachbarrett.me, but this is subject to change. ]]></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
